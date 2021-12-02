@@ -1,2 +1,2 @@
 # basicAlgorithm
-demo code and execrise for https://github.com/liuxinyu95/AlgoXY
+demo code and exercises for https://github.com/liuxinyu95/AlgoXY
